@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**tranngoclam/tranngoclam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Lam Tran](https://github.com/tranngoclam), a Software Engineer from Vietnam.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Go, Microservices and DevOps.
+- 🌱 I’m currently learning Distributed System, Cloud Native and System Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/tranngoclam">
+  <img align="left" alt="Lam Tran's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@tranngoclam">
+  <img align="left" alt="Lam Tran's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=tranngoclam.tranngoclam)
+
+<br />
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
